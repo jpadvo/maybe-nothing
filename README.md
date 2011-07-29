@@ -6,6 +6,12 @@ This gem is based in its entirety on code and ideas found in Joe Ferris's post h
 http://robots.thoughtbot.com/post/8181879506/if-you-gaze-into-nil-nil-gazes-also-into-you
 
 
+Installation
+============
+
+    gem install maybe-nothing
+
+
 Usage
 =====
 
